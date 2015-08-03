@@ -21,7 +21,7 @@ Tested on OSX and ubuntu. Should work anywhere where node and virtualbox is supp
 Run the following command after git clone.
 
 ``` bash
-$ npm install .
+$ npm install
 ```
 
 ### Installing virtual machines (Virtualbox VMs)
